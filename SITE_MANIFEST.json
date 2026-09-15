@@ -1,0 +1,27 @@
+{
+  "domain": "shallotaroma",
+  "site_name": "Shallot Aroma",
+  "niche": "Food",
+  "generated_at": "2026-09-15T19:56:51Z",
+  "pages": {
+    "root_html": [
+      "index.html",
+      "about.html",
+      "services.html",
+      "contact.html",
+      "faq.html",
+      "blog.html",
+      "privacy-policy.html",
+      "terms-and-conditions.html",
+      "disclaimer.html",
+      "cookie-policy.html"
+    ],
+    "blogs": [
+      "blog/blog-1.html",
+      "blog/blog-2.html",
+      "blog/blog-3.html"
+    ]
+  },
+  "images_count": 20,
+  "audit_passed": true
+}
